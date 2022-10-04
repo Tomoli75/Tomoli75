@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Thomas, and I like developing things.
-I spend way too much time on JS, though Java and PHP are cool as well.
+I'm Thomas, and I like developing things. \
+I spend way too much time on JS, though Java and PHP are cool as well. \
 Currently looking into Rust & Svelte, with a bit of Python too.
 
 <img src = "https://komarev.com/ghpvc/?username=Tomoli75" alt = "Profile Views" /></h><br>
